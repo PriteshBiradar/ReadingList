@@ -69,7 +69,11 @@
      <artifactId>jstl</artifactId>
      <version>1.2</version>
    </dependency>
- </dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+		</dependency>
+	</dependencies>
 
 	<build>
 		<plugins>
